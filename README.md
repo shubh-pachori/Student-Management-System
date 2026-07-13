@@ -4,6 +4,8 @@ A premium, microservices-based Student Management System built using **.NET 8 C#
 
 The application utilizes Clean Architecture, the Repository Pattern, Dependency Injection, JWT Bearer Authentication, and secure Role-Based Access Control (RBAC).
 
+For detailed service dependencies, sync flows, and database caching patterns, refer to [ARCHITECTURE.md](ARCHITECTURE.md).
+
 ---
 
 ## 🚀 Port & Microservice Configurations
